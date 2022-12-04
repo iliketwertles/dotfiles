@@ -1,2 +1,2 @@
-this is my laptop and desktop dotfiles (some edits required to get the sizes right)
+this is my desktop dotfiles 
 waybar, hyprland, foot, wofi, etc
