@@ -1,0 +1,2 @@
+format = """$directory
+[└─>](bold cyan) """
